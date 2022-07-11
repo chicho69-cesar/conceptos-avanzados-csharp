@@ -51,9 +51,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeticionesHTTPAUnAPI", "Pet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsConRestricciones", "GenericsConRestricciones\GenericsConRestricciones.csproj", "{AB81C282-2E59-4F6C-BD84-D819A8E05859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monadas", "Monadas\Monadas.csproj", "{E698F338-7009-4153-A894-0C86F9722F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monadas", "Monadas\Monadas.csproj", "{E698F338-7009-4153-A894-0C86F9722F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMonadas", "EjercicioMonadas\EjercicioMonadas.csproj", "{4F02A7D4-405D-4AAA-9187-45C74C8D7759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioMonadas", "EjercicioMonadas\EjercicioMonadas.csproj", "{4F02A7D4-405D-4AAA-9187-45C74C8D7759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplasYProgramacionFuncional", "TuplasYProgramacionFuncional\TuplasYProgramacionFuncional.csproj", "{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoization", "Memoization\Memoization.csproj", "{044093E1-471C-4FDE-8067-8AB929EFC555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{4F02A7D4-405D-4AAA-9187-45C74C8D7759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F02A7D4-405D-4AAA-9187-45C74C8D7759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F02A7D4-405D-4AAA-9187-45C74C8D7759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044093E1-471C-4FDE-8067-8AB929EFC555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044093E1-471C-4FDE-8067-8AB929EFC555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044093E1-471C-4FDE-8067-8AB929EFC555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044093E1-471C-4FDE-8067-8AB929EFC555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
