@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monadas", "Monadas\Monadas.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioMonadas", "EjercicioMonadas\EjercicioMonadas.csproj", "{4F02A7D4-405D-4AAA-9187-45C74C8D7759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplasYProgramacionFuncional", "TuplasYProgramacionFuncional\TuplasYProgramacionFuncional.csproj", "{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TuplasYProgramacionFuncional", "TuplasYProgramacionFuncional\TuplasYProgramacionFuncional.csproj", "{3EB7A790-F6EE-4DCC-9D94-9F970B554B58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoization", "Memoization\Memoization.csproj", "{044093E1-471C-4FDE-8067-8AB929EFC555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memoization", "Memoization\Memoization.csproj", "{044093E1-471C-4FDE-8067-8AB929EFC555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpresionesLambda", "ExpresionesLambda\ExpresionesLambda.csproj", "{7DF5A39A-BF2A-4F26-8B89-AE162F4731FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{044093E1-471C-4FDE-8067-8AB929EFC555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{044093E1-471C-4FDE-8067-8AB929EFC555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{044093E1-471C-4FDE-8067-8AB929EFC555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF5A39A-BF2A-4F26-8B89-AE162F4731FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF5A39A-BF2A-4F26-8B89-AE162F4731FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF5A39A-BF2A-4F26-8B89-AE162F4731FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF5A39A-BF2A-4F26-8B89-AE162F4731FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
