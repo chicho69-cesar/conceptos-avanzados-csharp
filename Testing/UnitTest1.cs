@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using UnitTesting;
 
 namespace Testing {
@@ -26,6 +27,12 @@ namespace Testing {
         public void TestPrimo() {
             bool result = Program.EsPrimo(11);
             Assert.AreEqual(true, result);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void TestException() {
+            Program.Exception();
         }
     }
 }

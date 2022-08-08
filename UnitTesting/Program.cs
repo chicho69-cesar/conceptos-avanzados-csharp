@@ -17,5 +17,9 @@
                 if (numero % i == 0) contador++;
             return contador <= 2;
         }
+
+        public static void Exception() {
+            throw new Exception("Ocurrio una excepcion papu");
+        }
     }
 }
