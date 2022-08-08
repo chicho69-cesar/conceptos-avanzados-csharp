@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionDeMetodosEnClases"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplesFunciones", "MultiplesFunciones\MultiplesFunciones.csproj", "{311EB73C-312C-4827-9FE1-23A3BECB85A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "Mutex\Mutex.csproj", "{897110EB-00FD-4A39-938C-C9194EB0506D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutex", "Mutex\Mutex.csproj", "{897110EB-00FD-4A39-938C-C9194EB0506D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.csproj", "{CF402FC6-FEDE-4D6D-91FD-B3308625700A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{897110EB-00FD-4A39-938C-C9194EB0506D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897110EB-00FD-4A39-938C-C9194EB0506D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{897110EB-00FD-4A39-938C-C9194EB0506D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF402FC6-FEDE-4D6D-91FD-B3308625700A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF402FC6-FEDE-4D6D-91FD-B3308625700A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF402FC6-FEDE-4D6D-91FD-B3308625700A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF402FC6-FEDE-4D6D-91FD-B3308625700A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
