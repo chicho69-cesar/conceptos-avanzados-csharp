@@ -10,7 +10,7 @@ namespace Threads {
     public class Program {
         public static void Main(string[] args) {
             // Run();
-            Thread5.Run();
+            Thread6.Run();
         }
 
         public static void Run() {
