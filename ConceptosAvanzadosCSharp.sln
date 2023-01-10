@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcepcionesPersonalizadas",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColeccionesDeTareasAsincronas", "ColeccionesDeTareasAsincronas\ColeccionesDeTareasAsincronas.csproj", "{F7CE8D3F-C0B1-4E38-99BE-D98C2DD3D4B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{A682615F-0985-4418-B16F-5386FD73C503}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yield", "Yield\Yield.csproj", "{A682615F-0985-4418-B16F-5386FD73C503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrenciaConExpresionesLambda", "ConcurrenciaConExpresionesLambda\ConcurrenciaConExpresionesLambda.csproj", "{FF43E253-C01A-40AC-BBC1-9458A178EDF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{A682615F-0985-4418-B16F-5386FD73C503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A682615F-0985-4418-B16F-5386FD73C503}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A682615F-0985-4418-B16F-5386FD73C503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF43E253-C01A-40AC-BBC1-9458A178EDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF43E253-C01A-40AC-BBC1-9458A178EDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF43E253-C01A-40AC-BBC1-9458A178EDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF43E253-C01A-40AC-BBC1-9458A178EDF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
